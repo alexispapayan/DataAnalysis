@@ -1,0 +1,13 @@
+{
+    "python.pythonPath": "D:\\Users\\papagian\\AppData\\Local\\Continuum\\Anaconda3\\python",
+    // whitelist numpy to remove lint errors
+    "python.linting.pylintArgs": [
+        "--extension-pkg-whitelist=numpy"
+    ],
+    "terminal.integrated.shell.windows": "C:\\Windows\\System32\\cmd.exe",
+    "terminal.integrated.shellArgs.windows": ["/K ipython"]
+   
+   
+   
+}
+
