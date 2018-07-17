@@ -42,4 +42,4 @@ Transfinite Line {10}=1 Using Bump 1;
 Transfinite Line {11}=1 Using Bump 1;
 Transfinite Line {12}=1 Using Bump 1;
 // Target edge length
-Mesh.CharacteristicLengthFactor=0.9;
+Mesh.CharacteristicLengthFactor=0.8;
